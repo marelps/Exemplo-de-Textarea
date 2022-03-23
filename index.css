@@ -1,0 +1,42 @@
+html{
+    font-size: 100%;
+}
+body{
+    font-family: sans-serif;
+}
+
+form{
+    border: 2px solid lightgray;
+    padding: .6rem;
+    border-radius: 0 .4rem .4rem .4rem;
+}
+
+textarea{
+    resize: none;
+    width: 100%;
+    border: none;
+    font-size: .8rem;
+    font-family: sans-serif;
+}
+
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+button{
+    height: 30px;
+    background: lightblue;
+    border: none;
+    border-radius: .4rem;
+    color: white;
+}
+img{
+    width: 15px;
+    padding-right: 5px;
+}
+.anonimo{
+    display: flex;
+    align-items: center;
+}
